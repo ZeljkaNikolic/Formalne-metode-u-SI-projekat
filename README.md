@@ -1,3 +1,5 @@
+Projektni zadatak iz predmeta Formalne metode u SI (2023/24)
+
 * Istrenirati neuronsku mrežu nad RCV1 skupom podataka. Dovoljno je koristiti samo
 50% uzoraka iz skupa za trening i test. Potrebno je definisati proizvoljnu arhitekturu
 neuronske mreže. Obratiti pažnju na broj ulaznih i izlaznih neurona u prvom i posljednjem
